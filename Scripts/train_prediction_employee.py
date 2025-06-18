@@ -73,7 +73,9 @@ model_top = RandomForestClassifier(
 
 model_top.fit(X_top_scaled, y)
 
-joblib.dump(model_top, "Notebook\\Prédiction Employé\\modele_attrition_reduit.pkl")
-joblib.dump(scaler_top, "Notebook\\Prédiction Employé\\scaler_attrition_reduit.pkl")
-joblib.dump(top_features, "Notebook\\Prédiction Employé\\colonnes_utilisees_reduit.pkl")
+output_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "../Notebook/Prédiction Employé"))
+
+joblib.dump(model_top, os.path.join(output_dir, "modele_attrition_reduit.pkl"))
+joblib.dump(scaler_top, os.path.join(output_dir, "scaler_attrition_reduit.pkl"))
+joblib.dump(top_features, os.path.join(output_dir, "colonnes_utilisees_reduit.pkl"))
 

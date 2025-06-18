@@ -56,12 +56,12 @@ nb_model = MultinomialNB()
 nb_model.fit(X_tfidf, y)
 
 # Sauvegarde
-model_filename = 'Notebook\\Analyse CV (Catégorie)\\logistic_regression_model.joblib'
-vectorizer_filename = 'Notebook\\Analyse CV (Catégorie)\\tfidf_vectorizer.joblib'
-label_encoder_filename = 'Notebook\\Analyse CV (Catégorie)\\label_encoder.joblib'
+output_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "../Notebook/Analyse CV (Catégorie)"))
+
+model_filename = os.path.join(output_dir, 'logistic_regression_model.joblib')
+vectorizer_filename = os.path.join(output_dir, 'tfidf_vectorizer.joblib')
+label_encoder_filename = os.path.join(output_dir, 'label_encoder.joblib')
 
 joblib.dump(logreg_model, model_filename)
-
 joblib.dump(tfidf_vectorizer, vectorizer_filename)
-
 joblib.dump(label_encoder, label_encoder_filename)
