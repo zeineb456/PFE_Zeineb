@@ -138,17 +138,20 @@ for epoch in range(epochs):
     W2 -= learning_rate * dW2
     b2 -= learning_rate * db2
     
-# Poids et biais du réseau
-joblib.dump(W1, 'Notebook\\Prédiction Salaire\\W1_model.pkl')
-joblib.dump(b1, 'Notebook\\Prédiction Salaire\\b1_model.pkl')
-joblib.dump(W2, 'Notebook\\Prédiction Salaire\\W2_model.pkl')
-joblib.dump(b2, 'Notebook\\Prédiction Salaire\\b2_model.pkl')
+# Define absolute output directory
+output_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "../Notebook/Prédiction Salaire"))
 
-# Préprocesseur complet
-joblib.dump(preprocessor, 'Notebook\\Prédiction Salaire\\preprocessor.pkl')
+# Save weights and biases
+joblib.dump(W1, os.path.join(output_dir, 'W1_model.pkl'))
+joblib.dump(b1, os.path.join(output_dir, 'b1_model.pkl'))
+joblib.dump(W2, os.path.join(output_dir, 'W2_model.pkl'))
+joblib.dump(b2, os.path.join(output_dir, 'b2_model.pkl'))
 
-# Scaler pour la cible
-joblib.dump(scaler_y, 'Notebook\\Prédiction Salaire\\scaler_y.pkl')
+# Save preprocessor
+joblib.dump(preprocessor, os.path.join(output_dir, 'preprocessor.pkl'))
+
+# Save target scaler
+joblib.dump(scaler_y, os.path.join(output_dir, 'scaler_y.pkl'))
 
 
 
