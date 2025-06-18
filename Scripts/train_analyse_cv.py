@@ -7,6 +7,7 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
 from sklearn.naive_bayes import MultinomialNB
+import os
 
 #  Nettoyage du Texte
 def clean_text(text):
@@ -16,7 +17,10 @@ def clean_text(text):
       text = ' '.join(text.split()) # Enlever espaces superflus
       return text
 
-df = pd.read_csv('Notebook\\Analyse CV (Catégorie)\\ResumeCV.csv')
+DATA_DIR = os.path.join(os.path.dirname(__file__), "../Notebook/Analyse CV (Catégorie)/ResumeCV.csv")
+DATA_DIR = os.path.abspath(DATA_DIR)
+
+df = pd.read_csv(DATA_DIR)
 
 categories = sorted(df['Category'].unique())
 category_counts = df['Category'].value_counts()
