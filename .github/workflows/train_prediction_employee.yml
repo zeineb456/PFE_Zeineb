@@ -1,0 +1,59 @@
+name: Train Prediction Employee Pipeline
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  train-model:
+    runs-on: ubuntu-24.04
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set Up Python 3.11.0
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11.0"
+
+      - name: Install Conda 23.5.2
+        run: |
+          wget https://repo.anaconda.com/miniconda/Miniconda3-py311_23.5.2-0-Linux-x86_64.sh -O miniconda.sh
+          bash miniconda.sh -b -p $HOME/miniconda
+          echo "$HOME/miniconda/bin" >> $GITHUB_PATH
+
+      - name: Create Conda Environment
+        shell: bash -l {0}
+        run: |
+          source $HOME/miniconda/bin/activate
+          conda init bash
+          conda env create --file environment.yml --name PFE_ZEINEB
+
+      - name: Run Training Job
+        shell: bash -l {0}
+        run: |
+          source $HOME/miniconda/bin/activate
+          conda activate PFE_ZEINEB
+          
+          # Set PYTHONPATH to include the project root
+          export PYTHONPATH=$PYTHONPATH:$(pwd)
+          
+          # Debug: Show the directory structure and PYTHONPATH
+          echo "Current directory structure:"
+          ls -la
+          echo "PYTHONPATH: $PYTHONPATH"
+
+          # Run the training script
+          echo "Training..."
+          python Scripts/train_prediction_employee.py
+
+      - name: Push changes to main branch
+        if: github.ref == 'refs/heads/main'
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Automated update from training pipeline - Prediction Employee" || echo "No changes to commit"
+          git push origin main

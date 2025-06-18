@@ -1,0 +1,13 @@
+name: PFE_ZEINEB
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - joblib
+  - kagglehub
+  - tabulate
