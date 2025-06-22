@@ -10,6 +10,8 @@ import joblib
 import mlflow
 import mlflow.sklearn
 import numpy as np
+from pathlib import Path
+
 
 # Initialize MLflow
 mlflow.set_experiment("IBM_HR_Attrition_Prediction")
@@ -36,17 +38,15 @@ def log_metrics(y_true, y_pred, y_proba=None, prefix=""):
     print(f"\n{prefix} Model Performance:")
     for name, value in metrics.items():
         print(f"{name}: {value:.4f}")
-# Crée un dossier local pour les artefacts
-mlruns_dir = os.path.join(os.getcwd(), "mlruns")
-os.makedirs(mlruns_dir, exist_ok=True)
 
-# Construire l'URI MLflow selon l'OS
-if os.name == "nt":  # Windows
-    tracking_uri = "file:///" + mlruns_dir.replace("\\", "/")
-else:  # Linux (GitHub Actions, Ubuntu, etc.)
-    tracking_uri = "file://" + mlruns_dir
+# Create mlruns directory in a reliable location
+mlruns_dir = Path("mlruns").absolute()  # Using absolute path to be explicit
 
-mlflow.set_tracking_uri(tracking_uri)
+# Ensure directory exists (with proper permissions)
+mlruns_dir.mkdir(exist_ok=True, mode=0o777)  # 0o777 gives full permissions
+
+# Set tracking URI - Path handles OS differences automatically
+mlflow.set_tracking_uri(mlruns_dir.as_uri())
 
 with mlflow.start_run():
     # --- Data Preparation ---

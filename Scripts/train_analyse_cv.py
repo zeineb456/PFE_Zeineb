@@ -12,6 +12,8 @@ from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_sc
 import os
 import mlflow
 import mlflow.sklearn
+from pathlib import Path
+
 
 # Nettoyage du Texte
 def clean_text(text):
@@ -81,17 +83,14 @@ def log_metrics(y_true, y_pred, model_name):
     print(f"RMSE: {rmse:.4f}")
     print(f"R2 Score: {r2:.4f}\n")
 
-# Crée un dossier local pour les artefacts
-mlruns_dir = os.path.join(os.getcwd(), "mlruns")
-os.makedirs(mlruns_dir, exist_ok=True)
+# Create mlruns directory in a reliable location
+mlruns_dir = Path("mlruns").absolute()  # Using absolute path to be explicit
 
-# Construire l'URI MLflow selon l'OS
-if os.name == "nt":  # Windows
-    tracking_uri = "file:///" + mlruns_dir.replace("\\", "/")
-else:  # Linux (GitHub Actions, Ubuntu, etc.)
-    tracking_uri = "file://" + mlruns_dir
+# Ensure directory exists (with proper permissions)
+mlruns_dir.mkdir(exist_ok=True, mode=0o777)  # 0o777 gives full permissions
 
-mlflow.set_tracking_uri(tracking_uri)
+# Set tracking URI - Path handles OS differences automatically
+mlflow.set_tracking_uri(mlruns_dir.as_uri())
 
 # Start MLflow run
 with mlflow.start_run():

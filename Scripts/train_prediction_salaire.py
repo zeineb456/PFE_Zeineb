@@ -9,6 +9,8 @@ import mlflow
 import mlflow.sklearn
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
+from pathlib import Path
+
 
 # Initialize MLflow
 mlflow.set_experiment("Salary_Prediction_Neural_Network")
@@ -21,17 +23,15 @@ def relu_derivative(Z):
 
 def mse_loss(y_true, y_pred):
     return np.mean((y_true - y_pred) ** 2)
-# Crée un dossier local pour les artefacts
-mlruns_dir = os.path.join(os.getcwd(), "mlruns")
-os.makedirs(mlruns_dir, exist_ok=True)
 
-# Construire l'URI MLflow selon l'OS
-if os.name == "nt":  # Windows
-    tracking_uri = "file:///" + mlruns_dir.replace("\\", "/")
-else:  # Linux (GitHub Actions, Ubuntu, etc.)
-    tracking_uri = "file://" + mlruns_dir
+# Create mlruns directory in a reliable location
+mlruns_dir = Path("mlruns").absolute()  # Using absolute path to be explicit
 
-mlflow.set_tracking_uri(tracking_uri)
+# Ensure directory exists (with proper permissions)
+mlruns_dir.mkdir(exist_ok=True, mode=0o777)  # 0o777 gives full permissions
+
+# Set tracking URI - Path handles OS differences automatically
+mlflow.set_tracking_uri(mlruns_dir.as_uri())
 
 with mlflow.start_run():
     # --- Data Loading and Preparation ---

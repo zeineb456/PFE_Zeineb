@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/USER/OneDrive/Bureau/PFE_Zeineb/mlruns/563133427600558323/909d3df824a14ce786f307710eab9418/artifacts
+end_time: 1750617438571
+entry_point_name: ''
+experiment_id: '563133427600558323'
+lifecycle_stage: active
+run_id: 909d3df824a14ce786f307710eab9418
+run_name: gaudy-eel-959
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750617425737
+status: 3
+tags: []
+user_id: USER
