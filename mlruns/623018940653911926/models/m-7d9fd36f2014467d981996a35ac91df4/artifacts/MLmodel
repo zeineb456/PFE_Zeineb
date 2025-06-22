@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/USER/OneDrive/Bureau/PFE_Zeineb/mlruns/623018940653911926/models/m-7d9fd36f2014467d981996a35ac91df4/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.1
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+mlflow_version: 3.1.0
+model_id: m-7d9fd36f2014467d981996a35ac91df4
+model_size_bytes: 452997
+model_uuid: m-7d9fd36f2014467d981996a35ac91df4
+prompts: null
+run_id: 3ad1fd0ff3804eed96d86769324bfb1e
+utc_time_created: '2025-06-22 17:43:24.978398'

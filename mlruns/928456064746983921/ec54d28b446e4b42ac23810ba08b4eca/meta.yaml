@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/USER/OneDrive/Bureau/PFE_Zeineb/mlruns/928456064746983921/ec54d28b446e4b42ac23810ba08b4eca/artifacts
+end_time: 1750614156594
+entry_point_name: ''
+experiment_id: '928456064746983921'
+lifecycle_stage: active
+run_id: ec54d28b446e4b42ac23810ba08b4eca
+run_name: sincere-eel-585
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750614133633
+status: 3
+tags: []
+user_id: USER

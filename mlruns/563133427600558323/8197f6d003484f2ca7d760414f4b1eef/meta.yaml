@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/USER/OneDrive/Bureau/PFE_Zeineb/mlruns/563133427600558323/8197f6d003484f2ca7d760414f4b1eef/artifacts
+end_time: 1750614244629
+entry_point_name: ''
+experiment_id: '563133427600558323'
+lifecycle_stage: active
+run_id: 8197f6d003484f2ca7d760414f4b1eef
+run_name: placid-slug-703
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750614225519
+status: 3
+tags: []
+user_id: USER

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/USER/OneDrive/Bureau/PFE_Zeineb/mlruns/623018940653911926/3ad1fd0ff3804eed96d86769324bfb1e/artifacts
+end_time: 1750614213440
+entry_point_name: ''
+experiment_id: '623018940653911926'
+lifecycle_stage: active
+run_id: 3ad1fd0ff3804eed96d86769324bfb1e
+run_name: funny-trout-392
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750614197133
+status: 3
+tags: []
+user_id: USER

@@ -21,6 +21,7 @@ def relu_derivative(Z):
 
 def mse_loss(y_true, y_pred):
     return np.mean((y_true - y_pred) ** 2)
+mlflow.set_tracking_uri("file:///" + os.path.abspath("mlruns").replace("\\", "/"))
 
 with mlflow.start_run():
     # --- Data Loading and Preparation ---

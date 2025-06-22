@@ -81,6 +81,8 @@ def log_metrics(y_true, y_pred, model_name):
     print(f"RMSE: {rmse:.4f}")
     print(f"R2 Score: {r2:.4f}\n")
 
+mlflow.set_tracking_uri("file:///" + os.path.abspath("mlruns").replace("\\", "/"))
+
 # Start MLflow run
 with mlflow.start_run():
     # Log parameters

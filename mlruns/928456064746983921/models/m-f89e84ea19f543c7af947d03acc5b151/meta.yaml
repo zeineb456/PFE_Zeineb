@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/USER/OneDrive/Bureau/PFE_Zeineb/mlruns/928456064746983921/models/m-f89e84ea19f543c7af947d03acc5b151/artifacts
+creation_timestamp: 1750614145413
+experiment_id: '928456064746983921'
+last_updated_timestamp: 1750614150628
+model_id: m-f89e84ea19f543c7af947d03acc5b151
+model_type: null
+name: tfidf_vectorizer
+source_run_id: ec54d28b446e4b42ac23810ba08b4eca
+status: 2
+status_message: null

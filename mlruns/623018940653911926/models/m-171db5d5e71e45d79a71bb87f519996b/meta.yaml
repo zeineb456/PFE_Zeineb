@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/USER/OneDrive/Bureau/PFE_Zeineb/mlruns/623018940653911926/models/m-171db5d5e71e45d79a71bb87f519996b/artifacts
+creation_timestamp: 1750614199454
+experiment_id: '623018940653911926'
+last_updated_timestamp: 1750614204757
+model_id: m-171db5d5e71e45d79a71bb87f519996b
+model_type: null
+name: full_model
+source_run_id: 3ad1fd0ff3804eed96d86769324bfb1e
+status: 2
+status_message: null

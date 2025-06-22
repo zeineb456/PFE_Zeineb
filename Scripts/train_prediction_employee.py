@@ -36,6 +36,7 @@ def log_metrics(y_true, y_pred, y_proba=None, prefix=""):
     print(f"\n{prefix} Model Performance:")
     for name, value in metrics.items():
         print(f"{name}: {value:.4f}")
+mlflow.set_tracking_uri("file:///" + os.path.abspath("mlruns").replace("\\", "/"))
 
 with mlflow.start_run():
     # --- Data Preparation ---

@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/USER/OneDrive/Bureau/PFE_Zeineb/mlruns/928456064746983921/models/m-7bbcb5e6ac0a4f3b84af83f69663c195/artifacts
+creation_timestamp: 1750614140299
+experiment_id: '928456064746983921'
+last_updated_timestamp: 1750614145170
+model_id: m-7bbcb5e6ac0a4f3b84af83f69663c195
+model_type: null
+name: naive_bayes_model
+source_run_id: ec54d28b446e4b42ac23810ba08b4eca
+status: 2
+status_message: null
