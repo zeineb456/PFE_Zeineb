@@ -1,0 +1,14 @@
+artifact_path: file:///C:/Users/USER/OneDrive/Bureau/PFE_Zeineb/mlruns/563133427600558323/models/m-742914632e6645debcca399a3df67859/artifacts
+flavors:
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+mlflow_version: 3.1.0
+model_id: m-742914632e6645debcca399a3df67859
+model_size_bytes: 5738
+model_uuid: m-742914632e6645debcca399a3df67859
+prompts: null
+run_id: bdadc55bf0ae453eaea945ef6653703a
+utc_time_created: '2025-06-22 18:26:21.164874'

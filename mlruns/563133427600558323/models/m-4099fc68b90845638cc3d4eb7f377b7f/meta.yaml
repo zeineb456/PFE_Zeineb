@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/USER/OneDrive/Bureau/PFE_Zeineb/mlruns/563133427600558323/models/m-4099fc68b90845638cc3d4eb7f377b7f/artifacts
+creation_timestamp: 1750616786527
+experiment_id: '563133427600558323'
+last_updated_timestamp: 1750616790653
+model_id: m-4099fc68b90845638cc3d4eb7f377b7f
+model_type: null
+name: target_scaler
+source_run_id: bdadc55bf0ae453eaea945ef6653703a
+status: 2
+status_message: null

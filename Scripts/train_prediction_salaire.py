@@ -22,13 +22,14 @@ def relu_derivative(Z):
 def mse_loss(y_true, y_pred):
     return np.mean((y_true - y_pred) ** 2)
 # Crée un dossier local pour les artefacts
-mlruns_path = os.path.abspath("mlruns")
+mlruns_dir = os.path.join(os.getcwd(), "mlruns")
+os.makedirs(mlruns_dir, exist_ok=True)
 
-# Conversion du chemin pour compatibilité Windows/Linux
+# Construire l'URI MLflow selon l'OS
 if os.name == "nt":  # Windows
-    tracking_uri = "file:///" + mlruns_path.replace("\\", "/")
-else:  # Linux/Mac
-    tracking_uri = "file://" + mlruns_path
+    tracking_uri = "file:///" + mlruns_dir.replace("\\", "/")
+else:  # Linux (GitHub Actions, Ubuntu, etc.)
+    tracking_uri = "file://" + mlruns_dir
 
 mlflow.set_tracking_uri(tracking_uri)
 

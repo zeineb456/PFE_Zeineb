@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/USER/OneDrive/Bureau/PFE_Zeineb/mlruns/563133427600558323/models/m-742914632e6645debcca399a3df67859/artifacts
+creation_timestamp: 1750616781059
+experiment_id: '563133427600558323'
+last_updated_timestamp: 1750616786410
+model_id: m-742914632e6645debcca399a3df67859
+model_type: null
+name: preprocessor
+source_run_id: bdadc55bf0ae453eaea945ef6653703a
+status: 2
+status_message: null
