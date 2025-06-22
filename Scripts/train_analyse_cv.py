@@ -81,6 +81,13 @@ def log_metrics(y_true, y_pred, model_name):
     print(f"RMSE: {rmse:.4f}")
     print(f"R2 Score: {r2:.4f}\n")
 
+# Define a cross-platform path for artifact storage
+artifact_dir = os.path.join(os.getcwd(), "mlruns")
+
+# Ensure that the directory exists, if not, create it
+os.makedirs(artifact_dir, exist_ok=True)
+
+# Set the tracking URI to the artifact directory
 mlflow.set_tracking_uri("file:///" + os.path.abspath("mlruns").replace("\\", "/"))
 
 # Start MLflow run
