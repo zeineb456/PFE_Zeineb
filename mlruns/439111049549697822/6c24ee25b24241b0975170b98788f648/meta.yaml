@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/neire/Downloads/PFE_Zeineb/mlruns/439111049549697822/6c24ee25b24241b0975170b98788f648/artifacts
+end_time: 1750607964249
+entry_point_name: ''
+experiment_id: '439111049549697822'
+lifecycle_stage: active
+run_id: 6c24ee25b24241b0975170b98788f648
+run_name: sneaky-smelt-86
+run_uuid: 6c24ee25b24241b0975170b98788f648
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750607944843
+status: 3
+tags: []
+user_id: neire
