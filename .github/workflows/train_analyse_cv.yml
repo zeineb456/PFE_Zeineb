@@ -34,7 +34,7 @@ jobs:
           conda init bash
           conda env create --file environment.yml --name PFE_ZEINEB
 
-        - name: Set Up MLflow Tracking Directory
+      - name: Set Up MLflow Tracking Directory
         run: |
           mkdir -p mlruns
           chmod -R 777 mlruns
