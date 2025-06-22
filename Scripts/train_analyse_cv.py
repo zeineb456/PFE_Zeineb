@@ -81,14 +81,16 @@ def log_metrics(y_true, y_pred, model_name):
     print(f"RMSE: {rmse:.4f}")
     print(f"R2 Score: {r2:.4f}\n")
 
-# Define a cross-platform path for artifact storage
-artifact_dir = os.path.join(os.getcwd(), "mlruns")
+# Crée un dossier local pour les artefacts
+mlruns_path = os.path.abspath("mlruns")
 
-# Ensure that the directory exists, if not, create it
-os.makedirs(artifact_dir, exist_ok=True)
+# Conversion du chemin pour compatibilité Windows/Linux
+if os.name == "nt":  # Windows
+    tracking_uri = "file:///" + mlruns_path.replace("\\", "/")
+else:  # Linux/Mac
+    tracking_uri = "file://" + mlruns_path
 
-# Set the tracking URI to the artifact directory
-mlflow.set_tracking_uri("file:///" + os.path.abspath("mlruns").replace("\\", "/"))
+mlflow.set_tracking_uri(tracking_uri)
 
 # Start MLflow run
 with mlflow.start_run():
