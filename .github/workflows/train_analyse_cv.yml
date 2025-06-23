@@ -39,7 +39,9 @@ jobs:
         shell: bash -l {0}
         run: |
           conda activate PFE_ZEINEB
-          conda install -y -c conda-forge joblib scikit-learn mlflow pandas
+          conda install -y -c conda-forge joblib scikit-learn pandas
+          pip install "protobuf<4.0.0"
+          pip install mlflow==1.30.0
 
       - name: Set Up MLflow Tracking Directory
         shell: bash -l {0}
