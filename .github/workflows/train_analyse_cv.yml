@@ -33,23 +33,39 @@ jobs:
           source $HOME/miniconda/bin/activate
           conda init bash
           conda env create --file environment.yml --name PFE_ZEINEB
+          source ~/.bashrc
+
+      - name: Install Additional Packages
+        shell: bash -l {0}
+        run: |
+          conda activate PFE_ZEINEB
+          conda install -y -c conda-forge joblib scikit-learn pandas
+          pip install "protobuf<4.0.0"
+          pip install mlflow==1.30.0
+
+      - name: Set Up MLflow Tracking Directory
+        shell: bash -l {0}
+        run: |
+          mkdir -p mlruns
+          chmod -R 777 mlruns
 
       - name: Run Training Job
         shell: bash -l {0}
+        env:
+          MLFLOW_TRACKING_URI: file://${{ github.workspace }}/mlruns
         run: |
-          source $HOME/miniconda/bin/activate
           conda activate PFE_ZEINEB
-          
-          # Set PYTHONPATH to include the project root
           export PYTHONPATH=$PYTHONPATH:$(pwd)
           
-          # Debug: Show the directory structure and PYTHONPATH
-          echo "Current directory structure:"
+          echo "=== Environment Debug ==="
+          echo "Python path: $(which python)"
+          echo "Python version: $(python --version)"
+          echo "Current directory: $(pwd)"
+          echo "Directory contents:"
           ls -la
           echo "PYTHONPATH: $PYTHONPATH"
-
-          # Run the training script
-          echo "Training..."
+          
+          echo "=== Starting Training ==="
           python Scripts/train_analyse_cv.py
 
       - name: Push changes to main branch
