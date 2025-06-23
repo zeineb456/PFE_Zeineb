@@ -68,15 +68,6 @@ jobs:
           echo "=== Starting Training ==="
           python Scripts/train_analyse_cv.py
 
-      - name: Upload MLflow Artifacts
-        uses: actions/upload-artifact@v4
-        with:
-          name: mlflow-artifacts
-          path: |
-            mlruns/
-            Notebook/Analyse\ CV\ \(Catégorie\)/
-          retention-days: 7
-
       - name: Push changes to main branch
         if: github.ref == 'refs/heads/main'
         env:
