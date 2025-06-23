@@ -3,7 +3,7 @@ name: Train Analyse CV Pipeline
 on:
   push:
     branches:
-        - main
+        - Test
     paths:
         - 'Notebook/Analyse CV (Catégorie)/ResumeCV.csv'
   workflow_dispatch:
