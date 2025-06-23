@@ -33,7 +33,7 @@ jobs:
           source $HOME/miniconda/bin/activate
           conda init bash
           conda env create --file environment.yml --name PFE_ZEINEB
-          conda install anaconda::pandas
+          conda install -y -c conda-forge joblib scikit-learn mlflow pandas
           
       - name: Set Up MLflow Tracking Directory
         shell: bash -l {0}
