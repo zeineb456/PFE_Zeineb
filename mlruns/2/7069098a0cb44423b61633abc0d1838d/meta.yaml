@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/7069098a0cb44423b61633abc0d1838d/artifacts
+end_time: 1750729501797
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 7069098a0cb44423b61633abc0d1838d
+run_name: receptive-shrew-13
+run_uuid: 7069098a0cb44423b61633abc0d1838d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750729493001
+status: 3
+tags: []
+user_id: runner
