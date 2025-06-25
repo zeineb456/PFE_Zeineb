@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/3ea2ae8222ba4499a89ec943230d022c/artifacts
+end_time: 1750815907006
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 3ea2ae8222ba4499a89ec943230d022c
+run_name: righteous-gnat-564
+run_uuid: 3ea2ae8222ba4499a89ec943230d022c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750815901006
+status: 3
+tags: []
+user_id: runner
