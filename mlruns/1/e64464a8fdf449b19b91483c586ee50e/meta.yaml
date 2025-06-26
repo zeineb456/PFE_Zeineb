@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/1/e64464a8fdf449b19b91483c586ee50e/artifacts
+end_time: 1750903714171
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e64464a8fdf449b19b91483c586ee50e
+run_name: merciful-horse-534
+run_uuid: e64464a8fdf449b19b91483c586ee50e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750903709065
+status: 3
+tags: []
+user_id: runner
