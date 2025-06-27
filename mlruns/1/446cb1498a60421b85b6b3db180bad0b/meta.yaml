@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/1/446cb1498a60421b85b6b3db180bad0b/artifacts
+end_time: 1750990170117
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 446cb1498a60421b85b6b3db180bad0b
+run_name: monumental-foal-181
+run_uuid: 446cb1498a60421b85b6b3db180bad0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750990165089
+status: 3
+tags: []
+user_id: runner
