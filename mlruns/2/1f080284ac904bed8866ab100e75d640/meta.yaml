@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/1f080284ac904bed8866ab100e75d640/artifacts
+end_time: 1751074882839
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 1f080284ac904bed8866ab100e75d640
+run_name: bouncy-hog-177
+run_uuid: 1f080284ac904bed8866ab100e75d640
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751074876266
+status: 3
+tags: []
+user_id: runner
