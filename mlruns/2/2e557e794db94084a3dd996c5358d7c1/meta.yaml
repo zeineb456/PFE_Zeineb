@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/2e557e794db94084a3dd996c5358d7c1/artifacts
+end_time: 1751248178539
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 2e557e794db94084a3dd996c5358d7c1
+run_name: gregarious-wolf-153
+run_uuid: 2e557e794db94084a3dd996c5358d7c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751248172093
+status: 3
+tags: []
+user_id: runner
