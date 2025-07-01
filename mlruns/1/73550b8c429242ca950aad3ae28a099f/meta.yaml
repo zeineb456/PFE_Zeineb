@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/1/73550b8c429242ca950aad3ae28a099f/artifacts
+end_time: 1751336794699
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 73550b8c429242ca950aad3ae28a099f
+run_name: glamorous-stoat-18
+run_uuid: 73550b8c429242ca950aad3ae28a099f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751336789856
+status: 3
+tags: []
+user_id: runner
