@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/eb33628a08f74ff5a1993f09a974e94e/artifacts
+end_time: 1751334896507
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: eb33628a08f74ff5a1993f09a974e94e
+run_name: spiffy-swan-84
+run_uuid: eb33628a08f74ff5a1993f09a974e94e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751334889689
+status: 3
+tags: []
+user_id: runner
