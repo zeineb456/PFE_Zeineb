@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/aaec87b09f9a4dc1a124677b068a3e71/artifacts
+end_time: 1751507107047
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: aaec87b09f9a4dc1a124677b068a3e71
+run_name: brawny-fawn-660
+run_uuid: aaec87b09f9a4dc1a124677b068a3e71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751507099611
+status: 3
+tags: []
+user_id: runner
