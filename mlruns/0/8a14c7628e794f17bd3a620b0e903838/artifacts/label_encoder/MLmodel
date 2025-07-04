@@ -1,0 +1,11 @@
+artifact_path: label_encoder
+flavors:
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 1.30.0
+model_uuid: 249fdec3793b4d00a55611d9730b11dd
+run_id: 8a14c7628e794f17bd3a620b0e903838
+utc_time_created: '2025-07-04 10:20:47.553606'
