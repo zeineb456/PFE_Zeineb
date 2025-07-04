@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/f6afa130258a42de950d19b56894d5b3/artifacts
+end_time: 1751593475198
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: f6afa130258a42de950d19b56894d5b3
+run_name: abundant-lynx-831
+run_uuid: f6afa130258a42de950d19b56894d5b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751593468330
+status: 3
+tags: []
+user_id: runner
