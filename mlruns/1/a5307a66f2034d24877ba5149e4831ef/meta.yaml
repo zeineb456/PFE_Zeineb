@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/1/a5307a66f2034d24877ba5149e4831ef/artifacts
+end_time: 1751854855743
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a5307a66f2034d24877ba5149e4831ef
+run_name: spiffy-carp-352
+run_uuid: a5307a66f2034d24877ba5149e4831ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751854850239
+status: 3
+tags: []
+user_id: runner

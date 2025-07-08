@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/bac186efa56c450d895ab2a744e68dcb/artifacts
+end_time: 1751766740859
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: bac186efa56c450d895ab2a744e68dcb
+run_name: nebulous-crane-650
+run_uuid: bac186efa56c450d895ab2a744e68dcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751766733996
+status: 3
+tags: []
+user_id: runner

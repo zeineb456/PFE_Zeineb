@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/1/11db7b9e65a843dab892f923f1898526/artifacts
+end_time: 1751768655179
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 11db7b9e65a843dab892f923f1898526
+run_name: mercurial-hen-906
+run_uuid: 11db7b9e65a843dab892f923f1898526
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751768649983
+status: 3
+tags: []
+user_id: runner
