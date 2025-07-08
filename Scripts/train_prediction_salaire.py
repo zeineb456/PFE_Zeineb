@@ -174,9 +174,9 @@ with mlflow.start_run():
         b2 -= learning_rate * db2
 
         # Log metrics every 100 epochs
-        if epoch % 100 == 0:
-            mlflow.log_metric("train_loss", train_loss, step=epoch)
-            mlflow.log_metric("test_loss", test_loss, step=epoch)
+        #if epoch % 100 == 0:
+        #    mlflow.log_metric("train_loss", train_loss, step=epoch)
+         #   mlflow.log_metric("test_loss", test_loss, step=epoch)
 
     # Final evaluation
     y_pred_test_unscaled = scaler_y.inverse_transform(Z2_test)
@@ -191,8 +191,6 @@ with mlflow.start_run():
     mlflow.log_metrics({
         "final_mse": mse,
         "final_r2": r2,
-        "final_train_loss": train_losses[-1],
-        "final_test_loss": test_losses[-1]
     })
 
     # Print metrics
