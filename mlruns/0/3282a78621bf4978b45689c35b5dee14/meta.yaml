@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/0/3282a78621bf4978b45689c35b5dee14/artifacts
+end_time: 1751963062520
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3282a78621bf4978b45689c35b5dee14
+run_name: vaunted-hen-134
+run_uuid: 3282a78621bf4978b45689c35b5dee14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751963057181
+status: 3
+tags: []
+user_id: runner
