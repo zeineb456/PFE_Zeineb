@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/3bc74ed4930f429fb0617d32e0f8a23c/artifacts
+end_time: 1751939132479
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 3bc74ed4930f429fb0617d32e0f8a23c
+run_name: redolent-donkey-711
+run_uuid: 3bc74ed4930f429fb0617d32e0f8a23c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751939125722
+status: 3
+tags: []
+user_id: runner
