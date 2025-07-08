@@ -190,7 +190,6 @@ with mlflow.start_run():
     # Log final metrics
     mlflow.log_metrics({
         "final_mse": mse,
-        "final_mae": mae,
         "final_r2": r2,
         "final_train_loss": train_losses[-1],
         "final_test_loss": test_losses[-1]
@@ -199,7 +198,6 @@ with mlflow.start_run():
     # Print metrics
     print("\nModel Performance:")
     print(f"MSE: {mse:.2f}")
-    print(f"MAE: {mae:.2f}")
     print(f"R2 Score: {r2:.4f}")
 
     # --- Save Artifacts ---
@@ -217,17 +215,7 @@ with mlflow.start_run():
     mlflow.sklearn.log_model(preprocessor, "preprocessor")
     mlflow.sklearn.log_model(scaler_y, "target_scaler")
 
-    # Save training history plot
-    import matplotlib.pyplot as plt
-    plt.figure(figsize=(10, 6))
-    plt.plot(train_losses, label='Training Loss')
-    plt.plot(test_losses, label='Validation Loss')
-    plt.xlabel('Epoch')
-    plt.ylabel('Loss')
-    plt.title('Training History')
-    plt.legend()
-    plt.savefig("training_history.png")
-    mlflow.log_artifact("training_history.png")
+   
 
     # Save locally
     output_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "../Notebook/Prédiction Salaire"))

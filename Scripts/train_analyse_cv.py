@@ -50,8 +50,6 @@ def log_metrics(y_true, y_pred, model_name, class_names):
         f"{model_name}_precision": precision_score(y_true, y_pred, average='weighted'),
         f"{model_name}_recall": recall_score(y_true, y_pred, average='weighted'),
         f"{model_name}_f1": f1_score(y_true, y_pred, average='weighted'),
-        f"{model_name}_rmse": np.sqrt(mean_squared_error(y_true, y_pred)),
-        f"{model_name}_r2": r2_score(y_true, y_pred)
     }
     
     # Log metrics
