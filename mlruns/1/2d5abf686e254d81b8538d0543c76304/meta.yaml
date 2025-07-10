@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/1/2d5abf686e254d81b8538d0543c76304/artifacts
+end_time: 1752113483148
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2d5abf686e254d81b8538d0543c76304
+run_name: thoughtful-bug-929
+run_uuid: 2d5abf686e254d81b8538d0543c76304
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752113478204
+status: 3
+tags: []
+user_id: runner
