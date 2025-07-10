@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/0ba13016b0704d6e968cc04db720528f/artifacts
+end_time: 1752112007621
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 0ba13016b0704d6e968cc04db720528f
+run_name: dashing-tern-346
+run_uuid: 0ba13016b0704d6e968cc04db720528f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752112002432
+status: 3
+tags: []
+user_id: runner
