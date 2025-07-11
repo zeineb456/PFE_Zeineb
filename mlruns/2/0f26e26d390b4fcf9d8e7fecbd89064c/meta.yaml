@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/0f26e26d390b4fcf9d8e7fecbd89064c/artifacts
+end_time: 1752198494507
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 0f26e26d390b4fcf9d8e7fecbd89064c
+run_name: smiling-trout-219
+run_uuid: 0f26e26d390b4fcf9d8e7fecbd89064c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752198488933
+status: 3
+tags: []
+user_id: runner
