@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/2e3c613cfdad4025b2068d65113b3065/artifacts
+end_time: 1752284977609
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 2e3c613cfdad4025b2068d65113b3065
+run_name: thoughtful-donkey-14
+run_uuid: 2e3c613cfdad4025b2068d65113b3065
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752284972274
+status: 3
+tags: []
+user_id: runner
