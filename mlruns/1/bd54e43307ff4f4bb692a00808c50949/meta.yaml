@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/1/bd54e43307ff4f4bb692a00808c50949/artifacts
+end_time: 1752286840988
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bd54e43307ff4f4bb692a00808c50949
+run_name: skillful-flea-581
+run_uuid: bd54e43307ff4f4bb692a00808c50949
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752286835676
+status: 3
+tags: []
+user_id: runner
