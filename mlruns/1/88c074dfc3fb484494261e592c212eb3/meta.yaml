@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/1/88c074dfc3fb484494261e592c212eb3/artifacts
+end_time: 1752632460306
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 88c074dfc3fb484494261e592c212eb3
+run_name: kindly-dog-489
+run_uuid: 88c074dfc3fb484494261e592c212eb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752632454837
+status: 3
+tags: []
+user_id: runner
