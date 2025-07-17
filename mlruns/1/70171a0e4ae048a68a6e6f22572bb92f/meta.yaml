@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/1/70171a0e4ae048a68a6e6f22572bb92f/artifacts
+end_time: 1752718885807
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 70171a0e4ae048a68a6e6f22572bb92f
+run_name: marvelous-mole-168
+run_uuid: 70171a0e4ae048a68a6e6f22572bb92f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752718880533
+status: 3
+tags: []
+user_id: runner
