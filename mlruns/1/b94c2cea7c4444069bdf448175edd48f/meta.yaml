@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/1/b94c2cea7c4444069bdf448175edd48f/artifacts
+end_time: 1752805377467
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b94c2cea7c4444069bdf448175edd48f
+run_name: fun-calf-851
+run_uuid: b94c2cea7c4444069bdf448175edd48f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752805372509
+status: 3
+tags: []
+user_id: runner
