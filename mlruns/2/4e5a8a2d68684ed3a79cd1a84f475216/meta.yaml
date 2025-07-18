@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/4e5a8a2d68684ed3a79cd1a84f475216/artifacts
+end_time: 1752803519730
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 4e5a8a2d68684ed3a79cd1a84f475216
+run_name: nervous-slug-52
+run_uuid: 4e5a8a2d68684ed3a79cd1a84f475216
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752803514261
+status: 3
+tags: []
+user_id: runner
