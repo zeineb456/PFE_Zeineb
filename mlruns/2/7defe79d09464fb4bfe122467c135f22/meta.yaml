@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/7defe79d09464fb4bfe122467c135f22/artifacts
+end_time: 1752889614115
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 7defe79d09464fb4bfe122467c135f22
+run_name: useful-mare-369
+run_uuid: 7defe79d09464fb4bfe122467c135f22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752889608835
+status: 3
+tags: []
+user_id: runner
