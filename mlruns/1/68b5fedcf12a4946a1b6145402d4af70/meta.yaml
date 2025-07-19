@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/1/68b5fedcf12a4946a1b6145402d4af70/artifacts
+end_time: 1752891057723
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 68b5fedcf12a4946a1b6145402d4af70
+run_name: brawny-stoat-528
+run_uuid: 68b5fedcf12a4946a1b6145402d4af70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752891052514
+status: 3
+tags: []
+user_id: runner
