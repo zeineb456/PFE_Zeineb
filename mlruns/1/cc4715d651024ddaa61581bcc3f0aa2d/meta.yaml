@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/1/cc4715d651024ddaa61581bcc3f0aa2d/artifacts
+end_time: 1752978699837
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cc4715d651024ddaa61581bcc3f0aa2d
+run_name: silent-roo-776
+run_uuid: cc4715d651024ddaa61581bcc3f0aa2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752978694608
+status: 3
+tags: []
+user_id: runner
