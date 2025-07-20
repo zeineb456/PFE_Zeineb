@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/122440cc19704611abc4e7e30bb50dde/artifacts
+end_time: 1752976731774
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 122440cc19704611abc4e7e30bb50dde
+run_name: valuable-fawn-210
+run_uuid: 122440cc19704611abc4e7e30bb50dde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752976726626
+status: 3
+tags: []
+user_id: runner
