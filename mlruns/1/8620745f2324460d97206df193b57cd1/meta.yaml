@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/1/8620745f2324460d97206df193b57cd1/artifacts
+end_time: 1753064892424
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8620745f2324460d97206df193b57cd1
+run_name: efficient-eel-248
+run_uuid: 8620745f2324460d97206df193b57cd1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753064887481
+status: 3
+tags: []
+user_id: runner
