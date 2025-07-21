@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/242940d9edc74e699ddfba382ab255d9/artifacts
+end_time: 1753062964114
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 242940d9edc74e699ddfba382ab255d9
+run_name: wistful-pig-273
+run_uuid: 242940d9edc74e699ddfba382ab255d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753062958702
+status: 3
+tags: []
+user_id: runner
