@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/2aed165a451543cb8f31fbb7115476be/artifacts
+end_time: 1753149066114
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 2aed165a451543cb8f31fbb7115476be
+run_name: honorable-shark-732
+run_uuid: 2aed165a451543cb8f31fbb7115476be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753149060578
+status: 3
+tags: []
+user_id: runner
