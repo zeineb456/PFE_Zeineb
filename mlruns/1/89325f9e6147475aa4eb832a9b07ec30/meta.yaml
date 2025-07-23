@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/1/89325f9e6147475aa4eb832a9b07ec30/artifacts
+end_time: 1753237405560
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 89325f9e6147475aa4eb832a9b07ec30
+run_name: indecisive-shark-124
+run_uuid: 89325f9e6147475aa4eb832a9b07ec30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753237400408
+status: 3
+tags: []
+user_id: runner
