@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/9ff654a9ba744cf09a3a84ea276ffc6c/artifacts
+end_time: 1753321855572
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 9ff654a9ba744cf09a3a84ea276ffc6c
+run_name: judicious-jay-569
+run_uuid: 9ff654a9ba744cf09a3a84ea276ffc6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753321850397
+status: 3
+tags: []
+user_id: runner
