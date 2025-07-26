@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/1/fe0f638dba6d448087df8e75517f886c/artifacts
+end_time: 1753495950919
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fe0f638dba6d448087df8e75517f886c
+run_name: mercurial-bear-37
+run_uuid: fe0f638dba6d448087df8e75517f886c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753495945437
+status: 3
+tags: []
+user_id: runner
