@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/9a46d5758a804b67bdd1b10989c0e204/artifacts
+end_time: 1753494456884
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 9a46d5758a804b67bdd1b10989c0e204
+run_name: unique-roo-49
+run_uuid: 9a46d5758a804b67bdd1b10989c0e204
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753494450934
+status: 3
+tags: []
+user_id: runner
