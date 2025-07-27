@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/1/967028940f23453eb44f18a0de66bbf4/artifacts
+end_time: 1753583557244
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 967028940f23453eb44f18a0de66bbf4
+run_name: blushing-bear-749
+run_uuid: 967028940f23453eb44f18a0de66bbf4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753583551611
+status: 3
+tags: []
+user_id: runner
