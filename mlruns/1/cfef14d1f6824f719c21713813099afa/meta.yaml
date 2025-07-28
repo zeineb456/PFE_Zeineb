@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/1/cfef14d1f6824f719c21713813099afa/artifacts
+end_time: 1753669738896
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cfef14d1f6824f719c21713813099afa
+run_name: rare-ant-255
+run_uuid: cfef14d1f6824f719c21713813099afa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753669733359
+status: 3
+tags: []
+user_id: runner
