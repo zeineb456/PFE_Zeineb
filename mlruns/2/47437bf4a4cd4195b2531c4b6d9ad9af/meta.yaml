@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/47437bf4a4cd4195b2531c4b6d9ad9af/artifacts
+end_time: 1753667841685
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 47437bf4a4cd4195b2531c4b6d9ad9af
+run_name: monumental-snipe-515
+run_uuid: 47437bf4a4cd4195b2531c4b6d9ad9af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753667836243
+status: 3
+tags: []
+user_id: runner
