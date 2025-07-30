@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/c4139fd6fa8541d782a03427268539d8/artifacts
+end_time: 1753840408973
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: c4139fd6fa8541d782a03427268539d8
+run_name: whimsical-sloth-742
+run_uuid: c4139fd6fa8541d782a03427268539d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753840403239
+status: 3
+tags: []
+user_id: runner
