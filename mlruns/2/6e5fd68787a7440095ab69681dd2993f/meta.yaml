@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/6e5fd68787a7440095ab69681dd2993f/artifacts
+end_time: 1753926797980
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 6e5fd68787a7440095ab69681dd2993f
+run_name: bouncy-donkey-241
+run_uuid: 6e5fd68787a7440095ab69681dd2993f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753926791783
+status: 3
+tags: []
+user_id: runner
