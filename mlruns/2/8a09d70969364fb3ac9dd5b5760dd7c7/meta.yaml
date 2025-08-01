@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/8a09d70969364fb3ac9dd5b5760dd7c7/artifacts
+end_time: 1754013792502
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 8a09d70969364fb3ac9dd5b5760dd7c7
+run_name: delicate-toad-96
+run_uuid: 8a09d70969364fb3ac9dd5b5760dd7c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754013786612
+status: 3
+tags: []
+user_id: runner
