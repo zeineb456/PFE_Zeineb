@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/1/5418802e75e743b9bb11304a27f2bd44/artifacts
+end_time: 1754015781401
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5418802e75e743b9bb11304a27f2bd44
+run_name: bold-newt-847
+run_uuid: 5418802e75e743b9bb11304a27f2bd44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754015775858
+status: 3
+tags: []
+user_id: runner
