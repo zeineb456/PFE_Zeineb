@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/0f006e34bbc14dd29e378b7213eb0e9d/artifacts
+end_time: 1754099278055
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 0f006e34bbc14dd29e378b7213eb0e9d
+run_name: indecisive-bird-3
+run_uuid: 0f006e34bbc14dd29e378b7213eb0e9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754099272292
+status: 3
+tags: []
+user_id: runner
