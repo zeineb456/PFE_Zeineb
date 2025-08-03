@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/1/23ba3e555daa41809f939dacd87d6e99/artifacts
+end_time: 1754188513650
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 23ba3e555daa41809f939dacd87d6e99
+run_name: worried-lynx-503
+run_uuid: 23ba3e555daa41809f939dacd87d6e99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754188508187
+status: 3
+tags: []
+user_id: runner
