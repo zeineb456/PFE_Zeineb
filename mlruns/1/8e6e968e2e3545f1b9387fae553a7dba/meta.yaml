@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/1/8e6e968e2e3545f1b9387fae553a7dba/artifacts
+end_time: 1754705307495
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8e6e968e2e3545f1b9387fae553a7dba
+run_name: entertaining-bee-32
+run_uuid: 8e6e968e2e3545f1b9387fae553a7dba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754705302187
+status: 3
+tags: []
+user_id: runner
