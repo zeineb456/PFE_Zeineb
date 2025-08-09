@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/7cb5e9fa1b9442508fe7de73421e2b08/artifacts
+end_time: 1754703856886
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 7cb5e9fa1b9442508fe7de73421e2b08
+run_name: zealous-ant-971
+run_uuid: 7cb5e9fa1b9442508fe7de73421e2b08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754703851340
+status: 3
+tags: []
+user_id: runner
