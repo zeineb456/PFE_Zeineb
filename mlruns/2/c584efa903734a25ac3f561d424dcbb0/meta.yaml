@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/c584efa903734a25ac3f561d424dcbb0/artifacts
+end_time: 1754791049499
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: c584efa903734a25ac3f561d424dcbb0
+run_name: wistful-koi-108
+run_uuid: c584efa903734a25ac3f561d424dcbb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754791043836
+status: 3
+tags: []
+user_id: runner
