@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/a24e1d0d827a4d568926781afa393089/artifacts
+end_time: 1754963021716
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: a24e1d0d827a4d568926781afa393089
+run_name: victorious-moose-205
+run_uuid: a24e1d0d827a4d568926781afa393089
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754963015717
+status: 3
+tags: []
+user_id: runner
