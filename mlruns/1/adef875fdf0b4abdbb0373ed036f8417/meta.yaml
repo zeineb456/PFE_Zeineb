@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/1/adef875fdf0b4abdbb0373ed036f8417/artifacts
+end_time: 1755137420685
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: adef875fdf0b4abdbb0373ed036f8417
+run_name: loud-frog-578
+run_uuid: adef875fdf0b4abdbb0373ed036f8417
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755137415479
+status: 3
+tags: []
+user_id: runner
