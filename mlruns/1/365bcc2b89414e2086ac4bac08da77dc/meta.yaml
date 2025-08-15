@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/1/365bcc2b89414e2086ac4bac08da77dc/artifacts
+end_time: 1755223858875
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 365bcc2b89414e2086ac4bac08da77dc
+run_name: agreeable-bear-131
+run_uuid: 365bcc2b89414e2086ac4bac08da77dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755223853314
+status: 3
+tags: []
+user_id: runner
