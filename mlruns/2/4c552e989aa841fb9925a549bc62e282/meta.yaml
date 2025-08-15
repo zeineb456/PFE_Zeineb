@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/4c552e989aa841fb9925a549bc62e282/artifacts
+end_time: 1755222439440
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 4c552e989aa841fb9925a549bc62e282
+run_name: overjoyed-shrimp-240
+run_uuid: 4c552e989aa841fb9925a549bc62e282
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755222433705
+status: 3
+tags: []
+user_id: runner
