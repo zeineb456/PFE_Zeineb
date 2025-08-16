@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/592e5bcbe3bc4d99833d85af260bce81/artifacts
+end_time: 1755308468590
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 592e5bcbe3bc4d99833d85af260bce81
+run_name: gentle-lamb-18
+run_uuid: 592e5bcbe3bc4d99833d85af260bce81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755308463102
+status: 3
+tags: []
+user_id: runner
