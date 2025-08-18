@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/131fbb16af9e4c25aec929cb289ed7e8/artifacts
+end_time: 1755481910969
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 131fbb16af9e4c25aec929cb289ed7e8
+run_name: enthused-penguin-507
+run_uuid: 131fbb16af9e4c25aec929cb289ed7e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755481905460
+status: 3
+tags: []
+user_id: runner
