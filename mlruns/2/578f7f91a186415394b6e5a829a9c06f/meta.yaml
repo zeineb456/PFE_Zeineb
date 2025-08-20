@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/578f7f91a186415394b6e5a829a9c06f/artifacts
+end_time: 1755653937932
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 578f7f91a186415394b6e5a829a9c06f
+run_name: useful-dog-198
+run_uuid: 578f7f91a186415394b6e5a829a9c06f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755653931934
+status: 3
+tags: []
+user_id: runner
