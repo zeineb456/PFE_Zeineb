@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/1/d0f35c9dabc04c15b1a379c44582e05d/artifacts
+end_time: 1755655318552
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d0f35c9dabc04c15b1a379c44582e05d
+run_name: marvelous-hound-386
+run_uuid: d0f35c9dabc04c15b1a379c44582e05d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755655312385
+status: 3
+tags: []
+user_id: runner
