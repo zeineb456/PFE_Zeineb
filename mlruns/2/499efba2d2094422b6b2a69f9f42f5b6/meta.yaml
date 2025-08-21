@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/499efba2d2094422b6b2a69f9f42f5b6/artifacts
+end_time: 1755740295494
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 499efba2d2094422b6b2a69f9f42f5b6
+run_name: masked-rook-745
+run_uuid: 499efba2d2094422b6b2a69f9f42f5b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755740289778
+status: 3
+tags: []
+user_id: runner
