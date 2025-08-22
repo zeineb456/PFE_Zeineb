@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/f76ac0b9f2aa495a8c646ee213bac98e/artifacts
+end_time: 1755826713837
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: f76ac0b9f2aa495a8c646ee213bac98e
+run_name: adorable-hare-198
+run_uuid: f76ac0b9f2aa495a8c646ee213bac98e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755826708596
+status: 3
+tags: []
+user_id: runner
