@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/26c30a0e106e4fb5a93ca4924f1ce7aa/artifacts
+end_time: 1755912490151
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 26c30a0e106e4fb5a93ca4924f1ce7aa
+run_name: treasured-bat-890
+run_uuid: 26c30a0e106e4fb5a93ca4924f1ce7aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755912484387
+status: 3
+tags: []
+user_id: runner
