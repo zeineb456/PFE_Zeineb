@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/1/df8275871794440fb71f6d79df694709/artifacts
+end_time: 1755914225011
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: df8275871794440fb71f6d79df694709
+run_name: judicious-fawn-186
+run_uuid: df8275871794440fb71f6d79df694709
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755914219734
+status: 3
+tags: []
+user_id: runner
