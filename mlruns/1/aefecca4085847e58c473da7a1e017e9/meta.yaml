@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/1/aefecca4085847e58c473da7a1e017e9/artifacts
+end_time: 1756001543320
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: aefecca4085847e58c473da7a1e017e9
+run_name: colorful-newt-288
+run_uuid: aefecca4085847e58c473da7a1e017e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756001537731
+status: 3
+tags: []
+user_id: runner
