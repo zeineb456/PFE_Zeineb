@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/dad7c7ea640241dabb49e8838f77a868/artifacts
+end_time: 1756172374873
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: dad7c7ea640241dabb49e8838f77a868
+run_name: whimsical-ox-383
+run_uuid: dad7c7ea640241dabb49e8838f77a868
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756172368966
+status: 3
+tags: []
+user_id: runner
