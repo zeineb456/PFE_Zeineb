@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/70484b97b64a4db3b1f4a7dd94d5c7e5/artifacts
+end_time: 1756344472936
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 70484b97b64a4db3b1f4a7dd94d5c7e5
+run_name: exultant-fly-379
+run_uuid: 70484b97b64a4db3b1f4a7dd94d5c7e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756344467046
+status: 3
+tags: []
+user_id: runner
