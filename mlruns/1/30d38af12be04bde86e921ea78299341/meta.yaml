@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/1/30d38af12be04bde86e921ea78299341/artifacts
+end_time: 1756346279420
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 30d38af12be04bde86e921ea78299341
+run_name: brawny-sloth-452
+run_uuid: 30d38af12be04bde86e921ea78299341
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756346274148
+status: 3
+tags: []
+user_id: runner
