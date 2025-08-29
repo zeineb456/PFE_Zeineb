@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/1/35f7ee4c43b54bf39a6abfa2a1232bdd/artifacts
+end_time: 1756432677574
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 35f7ee4c43b54bf39a6abfa2a1232bdd
+run_name: merciful-stag-64
+run_uuid: 35f7ee4c43b54bf39a6abfa2a1232bdd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756432672311
+status: 3
+tags: []
+user_id: runner
