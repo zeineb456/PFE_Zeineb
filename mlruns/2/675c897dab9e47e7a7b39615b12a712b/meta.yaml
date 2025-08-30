@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/675c897dab9e47e7a7b39615b12a712b/artifacts
+end_time: 1756517049937
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 675c897dab9e47e7a7b39615b12a712b
+run_name: amazing-rat-554
+run_uuid: 675c897dab9e47e7a7b39615b12a712b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756517044452
+status: 3
+tags: []
+user_id: runner
