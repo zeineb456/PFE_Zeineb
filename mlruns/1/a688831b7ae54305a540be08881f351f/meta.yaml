@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/1/a688831b7ae54305a540be08881f351f/artifacts
+end_time: 1756518727689
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a688831b7ae54305a540be08881f351f
+run_name: abundant-cow-50
+run_uuid: a688831b7ae54305a540be08881f351f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756518722395
+status: 3
+tags: []
+user_id: runner
