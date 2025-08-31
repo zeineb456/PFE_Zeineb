@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/c397b3a8a4454b07b544d6dfe8bf0498/artifacts
+end_time: 1756604447521
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: c397b3a8a4454b07b544d6dfe8bf0498
+run_name: nervous-hawk-915
+run_uuid: c397b3a8a4454b07b544d6dfe8bf0498
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756604441104
+status: 3
+tags: []
+user_id: runner
