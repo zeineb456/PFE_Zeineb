@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/b36aea171f1748eb82b088217e7be416/artifacts
+end_time: 1756776564355
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: b36aea171f1748eb82b088217e7be416
+run_name: judicious-koi-524
+run_uuid: b36aea171f1748eb82b088217e7be416
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756776558592
+status: 3
+tags: []
+user_id: runner
