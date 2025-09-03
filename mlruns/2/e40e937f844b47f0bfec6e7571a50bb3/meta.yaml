@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/e40e937f844b47f0bfec6e7571a50bb3/artifacts
+end_time: 1756862687376
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: e40e937f844b47f0bfec6e7571a50bb3
+run_name: rambunctious-ape-428
+run_uuid: e40e937f844b47f0bfec6e7571a50bb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756862681793
+status: 3
+tags: []
+user_id: runner
