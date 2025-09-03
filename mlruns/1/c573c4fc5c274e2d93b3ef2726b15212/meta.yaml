@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/1/c573c4fc5c274e2d93b3ef2726b15212/artifacts
+end_time: 1756864313740
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c573c4fc5c274e2d93b3ef2726b15212
+run_name: adorable-foal-380
+run_uuid: c573c4fc5c274e2d93b3ef2726b15212
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756864308316
+status: 3
+tags: []
+user_id: runner
