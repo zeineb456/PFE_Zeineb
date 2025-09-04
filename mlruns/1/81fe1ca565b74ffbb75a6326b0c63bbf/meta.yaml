@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/1/81fe1ca565b74ffbb75a6326b0c63bbf/artifacts
+end_time: 1756950752884
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 81fe1ca565b74ffbb75a6326b0c63bbf
+run_name: bouncy-hound-830
+run_uuid: 81fe1ca565b74ffbb75a6326b0c63bbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756950747523
+status: 3
+tags: []
+user_id: runner
