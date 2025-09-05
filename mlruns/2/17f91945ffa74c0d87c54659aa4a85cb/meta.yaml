@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/17f91945ffa74c0d87c54659aa4a85cb/artifacts
+end_time: 1757035596440
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 17f91945ffa74c0d87c54659aa4a85cb
+run_name: unruly-zebra-955
+run_uuid: 17f91945ffa74c0d87c54659aa4a85cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757035590599
+status: 3
+tags: []
+user_id: runner
