@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/1/0817e60775184d49a1606e37c086482f/artifacts
+end_time: 1757123515364
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0817e60775184d49a1606e37c086482f
+run_name: awesome-turtle-756
+run_uuid: 0817e60775184d49a1606e37c086482f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757123509789
+status: 3
+tags: []
+user_id: runner
