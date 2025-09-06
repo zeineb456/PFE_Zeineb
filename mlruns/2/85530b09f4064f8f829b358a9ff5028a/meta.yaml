@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/85530b09f4064f8f829b358a9ff5028a/artifacts
+end_time: 1757121852202
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 85530b09f4064f8f829b358a9ff5028a
+run_name: burly-goat-496
+run_uuid: 85530b09f4064f8f829b358a9ff5028a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757121846468
+status: 3
+tags: []
+user_id: runner
