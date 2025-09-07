@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/1/c7c4a1547ae44310a0f1f0dc166d8286/artifacts
+end_time: 1757210475145
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c7c4a1547ae44310a0f1f0dc166d8286
+run_name: capricious-wolf-441
+run_uuid: c7c4a1547ae44310a0f1f0dc166d8286
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757210469603
+status: 3
+tags: []
+user_id: runner
