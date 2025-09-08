@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/1/c3197220392148c69a415f178d3a9a87/artifacts
+end_time: 1757296842497
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c3197220392148c69a415f178d3a9a87
+run_name: merciful-hawk-733
+run_uuid: c3197220392148c69a415f178d3a9a87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757296837315
+status: 3
+tags: []
+user_id: runner
