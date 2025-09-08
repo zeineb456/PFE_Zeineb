@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/611807d441aa4bde9ea113778677a51a/artifacts
+end_time: 1757295551324
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 611807d441aa4bde9ea113778677a51a
+run_name: capable-ray-568
+run_uuid: 611807d441aa4bde9ea113778677a51a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757295545584
+status: 3
+tags: []
+user_id: runner
