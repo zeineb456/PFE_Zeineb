@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/f2dec51c34c9477798bc34b3b9d452bd/artifacts
+end_time: 1757554017334
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: f2dec51c34c9477798bc34b3b9d452bd
+run_name: merciful-worm-432
+run_uuid: f2dec51c34c9477798bc34b3b9d452bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757554011279
+status: 3
+tags: []
+user_id: runner
