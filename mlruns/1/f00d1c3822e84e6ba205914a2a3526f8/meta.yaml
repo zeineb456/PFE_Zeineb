@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/1/f00d1c3822e84e6ba205914a2a3526f8/artifacts
+end_time: 1757555776411
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f00d1c3822e84e6ba205914a2a3526f8
+run_name: burly-wolf-410
+run_uuid: f00d1c3822e84e6ba205914a2a3526f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757555770815
+status: 3
+tags: []
+user_id: runner
