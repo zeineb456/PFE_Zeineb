@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/8fd6e8aaeb1543bbaf585c5ac8a72c73/artifacts
+end_time: 1757640251844
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 8fd6e8aaeb1543bbaf585c5ac8a72c73
+run_name: orderly-shoat-513
+run_uuid: 8fd6e8aaeb1543bbaf585c5ac8a72c73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757640245981
+status: 3
+tags: []
+user_id: runner
