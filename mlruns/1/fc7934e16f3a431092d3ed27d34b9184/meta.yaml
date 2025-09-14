@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/1/fc7934e16f3a431092d3ed27d34b9184/artifacts
+end_time: 1757815222876
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fc7934e16f3a431092d3ed27d34b9184
+run_name: abundant-grouse-261
+run_uuid: fc7934e16f3a431092d3ed27d34b9184
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757815217732
+status: 3
+tags: []
+user_id: runner
