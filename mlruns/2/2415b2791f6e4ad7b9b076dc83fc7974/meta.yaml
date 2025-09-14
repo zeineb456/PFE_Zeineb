@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/2415b2791f6e4ad7b9b076dc83fc7974/artifacts
+end_time: 1757813892763
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 2415b2791f6e4ad7b9b076dc83fc7974
+run_name: adorable-owl-754
+run_uuid: 2415b2791f6e4ad7b9b076dc83fc7974
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757813886423
+status: 3
+tags: []
+user_id: runner
