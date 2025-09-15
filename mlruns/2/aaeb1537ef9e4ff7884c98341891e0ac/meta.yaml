@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/aaeb1537ef9e4ff7884c98341891e0ac/artifacts
+end_time: 1757900386537
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: aaeb1537ef9e4ff7884c98341891e0ac
+run_name: monumental-eel-436
+run_uuid: aaeb1537ef9e4ff7884c98341891e0ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757900380541
+status: 3
+tags: []
+user_id: runner
