@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/1/cfd260dbf98144568dbd11fa16c6680c/artifacts
+end_time: 1757901721074
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cfd260dbf98144568dbd11fa16c6680c
+run_name: nosy-crane-681
+run_uuid: cfd260dbf98144568dbd11fa16c6680c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757901715450
+status: 3
+tags: []
+user_id: runner
