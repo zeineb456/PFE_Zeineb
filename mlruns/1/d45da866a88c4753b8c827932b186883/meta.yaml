@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/1/d45da866a88c4753b8c827932b186883/artifacts
+end_time: 1758073974346
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d45da866a88c4753b8c827932b186883
+run_name: monumental-doe-741
+run_uuid: d45da866a88c4753b8c827932b186883
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758073969162
+status: 3
+tags: []
+user_id: runner
