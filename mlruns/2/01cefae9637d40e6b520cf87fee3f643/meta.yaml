@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/01cefae9637d40e6b520cf87fee3f643/artifacts
+end_time: 1758158669239
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 01cefae9637d40e6b520cf87fee3f643
+run_name: wise-gnu-392
+run_uuid: 01cefae9637d40e6b520cf87fee3f643
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758158663694
+status: 3
+tags: []
+user_id: runner
