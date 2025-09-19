@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/77a55ba9e76f4543af790128739b04e3/artifacts
+end_time: 1758245230909
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 77a55ba9e76f4543af790128739b04e3
+run_name: unique-trout-210
+run_uuid: 77a55ba9e76f4543af790128739b04e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758245224654
+status: 3
+tags: []
+user_id: runner
