@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/3336c9a1c44a434dbec59bd0ce309ee7/artifacts
+end_time: 1758331400016
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 3336c9a1c44a434dbec59bd0ce309ee7
+run_name: clumsy-stork-328
+run_uuid: 3336c9a1c44a434dbec59bd0ce309ee7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758331394426
+status: 3
+tags: []
+user_id: runner
