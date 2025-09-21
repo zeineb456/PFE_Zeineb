@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/f6f39151cba845fc97d5772cb4312fca/artifacts
+end_time: 1758418852970
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: f6f39151cba845fc97d5772cb4312fca
+run_name: shivering-smelt-218
+run_uuid: f6f39151cba845fc97d5772cb4312fca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758418847043
+status: 3
+tags: []
+user_id: runner
