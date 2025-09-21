@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/1/c8446058bd294ca99b800a29dc8675e5/artifacts
+end_time: 1758420234425
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c8446058bd294ca99b800a29dc8675e5
+run_name: rumbling-lamb-598
+run_uuid: c8446058bd294ca99b800a29dc8675e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758420229197
+status: 3
+tags: []
+user_id: runner
