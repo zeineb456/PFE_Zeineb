@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/5c6f3e2c35fa4b77a074d2274e8cbabc/artifacts
+end_time: 1758505278399
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 5c6f3e2c35fa4b77a074d2274e8cbabc
+run_name: angry-panda-213
+run_uuid: 5c6f3e2c35fa4b77a074d2274e8cbabc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758505272363
+status: 3
+tags: []
+user_id: runner
