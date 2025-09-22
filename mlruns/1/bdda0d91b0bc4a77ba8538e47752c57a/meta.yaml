@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/1/bdda0d91b0bc4a77ba8538e47752c57a/artifacts
+end_time: 1758506636617
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bdda0d91b0bc4a77ba8538e47752c57a
+run_name: peaceful-lark-568
+run_uuid: bdda0d91b0bc4a77ba8538e47752c57a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758506631033
+status: 3
+tags: []
+user_id: runner
