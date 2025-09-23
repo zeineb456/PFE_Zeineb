@@ -1,0 +1,11 @@
+artifact_path: preprocessor
+flavors:
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+mlflow_version: 1.30.0
+model_uuid: 026aa82d01fb475bb1a0dd1246a3ebe4
+run_id: 58d1a88fc6d144ffac00cc49400b655c
+utc_time_created: '2025-09-23 01:25:37.723762'
