@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/1/e2e5518a3d02430ab45267f91738414c/artifacts
+end_time: 1758678902868
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e2e5518a3d02430ab45267f91738414c
+run_name: thoughtful-sow-474
+run_uuid: e2e5518a3d02430ab45267f91738414c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758678897398
+status: 3
+tags: []
+user_id: runner
