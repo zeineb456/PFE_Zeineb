@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/1a3a3ed040c4422fa8c52c62e9d72c39/artifacts
+end_time: 1758677160042
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 1a3a3ed040c4422fa8c52c62e9d72c39
+run_name: aged-kit-694
+run_uuid: 1a3a3ed040c4422fa8c52c62e9d72c39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758677154465
+status: 3
+tags: []
+user_id: runner
