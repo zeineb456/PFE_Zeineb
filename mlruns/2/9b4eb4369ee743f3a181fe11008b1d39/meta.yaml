@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/9b4eb4369ee743f3a181fe11008b1d39/artifacts
+end_time: 1758763607899
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 9b4eb4369ee743f3a181fe11008b1d39
+run_name: powerful-mare-671
+run_uuid: 9b4eb4369ee743f3a181fe11008b1d39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758763602342
+status: 3
+tags: []
+user_id: runner
