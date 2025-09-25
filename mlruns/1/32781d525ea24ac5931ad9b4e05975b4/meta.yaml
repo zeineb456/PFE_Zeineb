@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/1/32781d525ea24ac5931ad9b4e05975b4/artifacts
+end_time: 1758765356049
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 32781d525ea24ac5931ad9b4e05975b4
+run_name: delightful-fox-318
+run_uuid: 32781d525ea24ac5931ad9b4e05975b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758765350509
+status: 3
+tags: []
+user_id: runner
