@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/554b83043321453493e5a0bf4b27f474/artifacts
+end_time: 1758849972076
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 554b83043321453493e5a0bf4b27f474
+run_name: redolent-sponge-960
+run_uuid: 554b83043321453493e5a0bf4b27f474
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758849965850
+status: 3
+tags: []
+user_id: runner
