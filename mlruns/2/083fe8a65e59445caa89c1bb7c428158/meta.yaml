@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/083fe8a65e59445caa89c1bb7c428158/artifacts
+end_time: 1758936195583
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 083fe8a65e59445caa89c1bb7c428158
+run_name: trusting-sponge-664
+run_uuid: 083fe8a65e59445caa89c1bb7c428158
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758936190216
+status: 3
+tags: []
+user_id: runner
