@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/1/24cf207b45294e9985dbdeb517df175e/artifacts
+end_time: 1759025117443
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 24cf207b45294e9985dbdeb517df175e
+run_name: luminous-gnat-262
+run_uuid: 24cf207b45294e9985dbdeb517df175e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759025112278
+status: 3
+tags: []
+user_id: runner
