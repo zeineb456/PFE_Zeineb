@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/6c0c6d7dfa634fa7b7f24433ac30a3ef/artifacts
+end_time: 1759195610328
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 6c0c6d7dfa634fa7b7f24433ac30a3ef
+run_name: intelligent-lark-382
+run_uuid: 6c0c6d7dfa634fa7b7f24433ac30a3ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759195604292
+status: 3
+tags: []
+user_id: runner
