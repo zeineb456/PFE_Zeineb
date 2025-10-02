@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/1/d409da225fef4c8f94562d69102b9768/artifacts
+end_time: 1759370021545
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d409da225fef4c8f94562d69102b9768
+run_name: enchanting-bird-532
+run_uuid: d409da225fef4c8f94562d69102b9768
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759370016185
+status: 3
+tags: []
+user_id: runner
