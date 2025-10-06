@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/e0512fe81d3140f99de195239eb76baf/artifacts
+end_time: 1759714035648
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: e0512fe81d3140f99de195239eb76baf
+run_name: hilarious-pug-95
+run_uuid: e0512fe81d3140f99de195239eb76baf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759714029286
+status: 3
+tags: []
+user_id: runner
