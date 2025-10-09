@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/7a2ac1eda17547e28b19984af1248989/artifacts
+end_time: 1759973193348
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 7a2ac1eda17547e28b19984af1248989
+run_name: enthused-boar-849
+run_uuid: 7a2ac1eda17547e28b19984af1248989
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759973187591
+status: 3
+tags: []
+user_id: runner
