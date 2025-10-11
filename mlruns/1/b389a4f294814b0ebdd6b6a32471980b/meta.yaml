@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/1/b389a4f294814b0ebdd6b6a32471980b/artifacts
+end_time: 1760147456630
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b389a4f294814b0ebdd6b6a32471980b
+run_name: unique-calf-779
+run_uuid: b389a4f294814b0ebdd6b6a32471980b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760147451055
+status: 3
+tags: []
+user_id: runner
