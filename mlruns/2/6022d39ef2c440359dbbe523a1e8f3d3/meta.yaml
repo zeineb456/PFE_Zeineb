@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/6022d39ef2c440359dbbe523a1e8f3d3/artifacts
+end_time: 1760145813178
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 6022d39ef2c440359dbbe523a1e8f3d3
+run_name: melodic-cod-299
+run_uuid: 6022d39ef2c440359dbbe523a1e8f3d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760145807324
+status: 3
+tags: []
+user_id: runner
