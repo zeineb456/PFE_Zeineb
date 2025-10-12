@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/PFE_Zeineb/PFE_Zeineb/mlruns/2/5dad0755632742dca9ae6653f4e0bec4/artifacts
+end_time: 1760233066490
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 5dad0755632742dca9ae6653f4e0bec4
+run_name: secretive-bass-986
+run_uuid: 5dad0755632742dca9ae6653f4e0bec4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760233060033
+status: 3
+tags: []
+user_id: runner
